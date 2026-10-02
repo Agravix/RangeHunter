@@ -1,0 +1,8 @@
+# Country: St. Barthélemy (BL)
+# Address family: IPv6
+# Delegation status: Allocated || Assigned
+# Export mode: Aggregated
+#
+2001:504:111::/48
+2602:fb77::/48
+2602:fc69::/36
