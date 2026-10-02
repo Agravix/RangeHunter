@@ -1,8 +1,0 @@
-# Country: Aruba (AW)
-# Address family: IPv6
-# Delegation status: Allocated || Assigned
-# Export mode: Aggregated
-#
-2800:ad0::/32
-2801:19:5800::/48
-2803:b640::/32

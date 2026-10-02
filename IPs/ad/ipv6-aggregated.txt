@@ -1,7 +1,0 @@
-# Country: Andorra (AD)
-# Address family: IPv6
-# Delegation status: Allocated || Assigned
-# Export mode: Aggregated
-#
-2a01:fb00::/29
-2a02:8060::/31

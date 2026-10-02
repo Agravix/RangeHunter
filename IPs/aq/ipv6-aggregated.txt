@@ -1,6 +1,0 @@
-# Country: Antarctica (AQ)
-# Address family: IPv6
-# Delegation status: Allocated || Assigned
-# Export mode: Aggregated
-#
-2604:17c0::/32
