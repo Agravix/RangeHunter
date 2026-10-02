@@ -48,13 +48,13 @@ The scanner can still run without them because it contains fallback behavior.
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY.git
+git clone https://github.com/Agravix/RangeHunter.git
 ```
 
 Enter the project directory:
 
 ```bash
-cd YOUR_REPOSITORY
+cd RangeHunter
 ```
 
 Install dependencies:
@@ -92,13 +92,13 @@ Invalid CIDR ranges are reported and skipped.
 Syntax:
 
 ```bash
-python scan.py <ip_file> <port>
+python RH.py <ip_file> <port>
 ```
 
 Example:
 
 ```bash
-python scan.py ranges.txt 80
+python RH.py ranges.txt 80
 ```
 
 This scans port `80` across all usable hosts contained in the CIDR ranges from `ranges.txt`.
@@ -106,7 +106,7 @@ This scans port `80` across all usable hosts contained in the CIDR ranges from `
 Another example:
 
 ```bash
-python scan.py ranges.txt 443
+python RH.py ranges.txt 443
 ```
 
 This scans TCP port `443`.
@@ -125,7 +125,7 @@ Input file:
 Run:
 
 ```bash
-python scan.py ranges.txt 25565
+python RH.py ranges.txt 25565
 ```
 
 Example output:
